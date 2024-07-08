@@ -2,15 +2,15 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "%{EMAIL}",
-                "Name": "%{AUTHOR}"
+                "Email": "ben@bartel.me",
+                "Name": "Ben Bartel"
             }
         ],
-        "Description": "krunner_translator_cpp runner",
+        "Description": "Translator Plugin for Krunner written in C++",
         "EnabledByDefault": true,
         "Icon": "planetkde",
         "License": "LGPL 2.1+",
-        "Name": "krunner_translator_cpp",
+        "Name": "Krunner Translator Plugin",
         "Version": "0.1"
     }
 }
