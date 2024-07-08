@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "%{EMAIL}",
+                "Name": "%{AUTHOR}"
+            }
+        ],
+        "Description": "krunner_translator_cpp runner",
+        "EnabledByDefault": true,
+        "Icon": "planetkde",
+        "License": "LGPL 2.1+",
+        "Name": "krunner_translator_cpp",
+        "Version": "0.1"
+    }
+}
